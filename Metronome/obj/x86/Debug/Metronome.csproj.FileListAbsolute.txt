@@ -1,0 +1,28 @@
+C:\Documents and Settings\m\Ustawienia lokalne\Dane aplikacji\Temporary Projects\Metronome\bin\Debug\Metronome.exe
+C:\Documents and Settings\m\Ustawienia lokalne\Dane aplikacji\Temporary Projects\Metronome\bin\Debug\Metronome.pdb
+C:\Documents and Settings\m\Ustawienia lokalne\Dane aplikacji\Temporary Projects\Metronome\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\m\Ustawienia lokalne\Dane aplikacji\Temporary Projects\Metronome\obj\x86\Debug\MainWindow.baml
+C:\Documents and Settings\m\Ustawienia lokalne\Dane aplikacji\Temporary Projects\Metronome\obj\x86\Debug\MainWindow.g.cs
+C:\Documents and Settings\m\Ustawienia lokalne\Dane aplikacji\Temporary Projects\Metronome\obj\x86\Debug\App.g.cs
+C:\Documents and Settings\m\Ustawienia lokalne\Dane aplikacji\Temporary Projects\Metronome\obj\x86\Debug\Metronome_MarkupCompile.cache
+C:\Documents and Settings\m\Ustawienia lokalne\Dane aplikacji\Temporary Projects\Metronome\obj\x86\Debug\Metronome.g.resources
+C:\Documents and Settings\m\Ustawienia lokalne\Dane aplikacji\Temporary Projects\Metronome\obj\x86\Debug\Metronome.Properties.Resources.resources
+C:\Documents and Settings\m\Ustawienia lokalne\Dane aplikacji\Temporary Projects\Metronome\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\m\Ustawienia lokalne\Dane aplikacji\Temporary Projects\Metronome\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\m\Ustawienia lokalne\Dane aplikacji\Temporary Projects\Metronome\obj\x86\Debug\Metronome.exe
+C:\Documents and Settings\m\Ustawienia lokalne\Dane aplikacji\Temporary Projects\Metronome\obj\x86\Debug\Metronome.pdb
+C:\Documents and Settings\m\Pulpit\C#\Aplikacje\Metronome\Metronome\obj\x86\Debug\Metronome.exe
+C:\Documents and Settings\m\Pulpit\C#\Aplikacje\Metronome\Metronome\obj\x86\Debug\Metronome.pdb
+C:\Users\ja\Desktop\C#\Aplikacje\Metronome\Metronome\obj\x86\Debug\Metronome.exe
+C:\Users\ja\Desktop\C#\Aplikacje\Metronome\Metronome\obj\x86\Debug\Metronome.pdb
+C:\Users\ja\Desktop\C#\Aplikacje\Metronome\Metronome\bin\Debug\Metronome.exe
+C:\Users\ja\Desktop\C#\Aplikacje\Metronome\Metronome\bin\Debug\Metronome.pdb
+C:\Users\ja\Desktop\C#\Aplikacje\Metronome\Metronome\obj\x86\Debug\Metronome.csprojResolveAssemblyReference.cache
+C:\Users\ja\Desktop\C#\Aplikacje\Metronome\Metronome\obj\x86\Debug\MainWindow.baml
+C:\Users\ja\Desktop\C#\Aplikacje\Metronome\Metronome\obj\x86\Debug\MainWindow.g.cs
+C:\Users\ja\Desktop\C#\Aplikacje\Metronome\Metronome\obj\x86\Debug\App.g.cs
+C:\Users\ja\Desktop\C#\Aplikacje\Metronome\Metronome\obj\x86\Debug\Metronome_MarkupCompile.cache
+C:\Users\ja\Desktop\C#\Aplikacje\Metronome\Metronome\obj\x86\Debug\Metronome.g.resources
+C:\Users\ja\Desktop\C#\Aplikacje\Metronome\Metronome\obj\x86\Debug\Metronome.Properties.Resources.resources
+C:\Users\ja\Desktop\C#\Aplikacje\Metronome\Metronome\obj\x86\Debug\Metronome.csproj.GenerateResource.Cache
+C:\Users\ja\Desktop\C#\Aplikacje\Metronome\Metronome\obj\x86\Debug\Metronome_Content.g.cs
