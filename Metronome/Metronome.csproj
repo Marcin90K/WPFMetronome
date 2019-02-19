@@ -36,7 +36,8 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <ApplicationIcon>Sirea-Instruments-Keyboard.ico</ApplicationIcon>
+    <ApplicationIcon>
+    </ApplicationIcon>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -98,7 +99,6 @@
   <ItemGroup>
     <Content Include="MetroBar1.wav" />
     <Content Include="MetroBeat1.wav" />
-    <Resource Include="Sirea-Instruments-Keyboard.ico" />
     <SplashScreen Include="saxophone_intro.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
