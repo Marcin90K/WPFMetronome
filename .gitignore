@@ -14,7 +14,7 @@
 *.userosscache
 *.sln.docstates
 
-#Added by Author
+# Added by Author
 *.wav
 
 # User-specific files (MonoDevelop/Xamarin Studio)
