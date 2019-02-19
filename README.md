@@ -11,4 +11,4 @@ In this application a few WPF aspects has been implemented, like animations, med
 The window has the layout's appearance similar to new Windows aplications style. I haven't used typical windows top bar with standard buttons for close/minimize/maximize of window and implemented my own bar with own buttons.
 
 # GUI screen
-<img src="WPFMetronom/Image/GUI screen.png" />
+<img src="Metronome/Image/GUI_screen.png" />
